@@ -1,0 +1,5 @@
+* install client side of application upon your android device using your preferred third party installer(not currenly on the app store)
+
+* after downloading server side upon pi, open it within node-red and deploy it.
+
+*see getting started for additional details
