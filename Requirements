@@ -1,0 +1,13 @@
+Hardware
+* Raspberri PI 3 B+ or newer
+* DHT22 humidity sensor
+* Binary Photo sensor
+* Bianry Rain sensor 
+* three LEDs(red, blue, green)
+* bread board
+
+Software
+* Standard Linux distribution
+* Node-red
+* Node-red module nodes node-red-contrib-gpio, node-red-contrib-dht-sensor, node-red-dashboard, node-red-node-pi-gpio, node-red-contrib-string
+* Any modern Android device(Iphone version not currently compiled)
