@@ -1,0 +1,10 @@
+* if not already installed install Node-red upon the linux operating system on your PI
+* Install Node-red module nodes node-red-contrib-gpio, node-red-contrib-dht-sensor, node-red-dashboard, node-red-node-pi-gpio, node-red-contrib-string
+* set Pi IP address to 192.168.0.242
+* install application on standard android phone
+* assemble bread board such that the DHT22 is on pin 7, the light sensor is on pin 8, the water sensor is on pin 37, and the red, blue and green led on pins 36, 32, 22
+* adjust and install sensors in preferred location such that they are able to measure their parameters to your preferred levels
+* set Node-red to autorun see https://nodered.org/docs/faq/starting-node-red-on-boot for details
+* restart PI
+
+*As long as both device are connected to teh same LAN then the Phone app should be able to access the dashboard
